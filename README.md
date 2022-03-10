@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanvi</h1>
 <h3 align="center">Programming, particularly Web Development, is a hobby of mine.</h3>
+<br/>
 
 - 🌱 I’m currently learning **MERN stack**
 
