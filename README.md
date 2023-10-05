@@ -59,4 +59,4 @@
   </a> 
 </p>
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvnaik&show_icons=true&locale=en" alt="tanvnaik" /></p>
+![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvnaik&show=prs_merged,prs_merged_percentage&hide=issues&theme=omni)
