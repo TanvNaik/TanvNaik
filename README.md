@@ -60,7 +60,6 @@
 </p>
 <br />
 <p>
- [![An image of @tanvnaik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvnaik)](https://holopin.io/@tanvnaik)
-</p>
+[![An image of @tanvnaik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvnaik)]</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvnaik&show=prs_merged,prs_merged_percentage&theme=omni&show_icons=true" alt="tanvnaik" /></p>
 
